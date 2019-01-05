@@ -95,7 +95,6 @@ void testString(string input)
 int main() 
 {
 	string input;
-	string output;
 	int noTestCases = 0;
 	cin >> noTestCases;
 	
