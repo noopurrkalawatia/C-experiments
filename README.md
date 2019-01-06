@@ -11,3 +11,5 @@ checkString.cpp : https://www.geeksforgeeks.org/program-check-input-integer-stri
 checkRepeat.cpp : https://practice.geeksforgeeks.org/problems/check-string/
 
 formInitial.cpp : https://www.geeksforgeeks.org/program-find-initials-name/
+
+zeroNum.cpp : https://practice.geeksforgeeks.org/problems/zero-number
