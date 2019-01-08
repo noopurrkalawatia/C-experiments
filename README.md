@@ -1,4 +1,4 @@
-# C-experiments
+# Geek for Geeks
 
 panagram.cpp    : https://practice.geeksforgeeks.org/problems/k-pangrams
 
