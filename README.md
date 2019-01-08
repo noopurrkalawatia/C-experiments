@@ -15,3 +15,5 @@ formInitial.cpp : https://www.geeksforgeeks.org/program-find-initials-name/
 zeroNum.cpp : https://practice.geeksforgeeks.org/problems/zero-number
 
 newCharSet.cpp : https://www.geeksforgeeks.org/change-string-to-a-new-character-set/
+
+findExtra.cpp : https://www.geeksforgeeks.org/find-one-extra-character-string/
