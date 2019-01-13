@@ -17,3 +17,5 @@ zeroNum.cpp : https://practice.geeksforgeeks.org/problems/zero-number
 newCharSet.cpp : https://www.geeksforgeeks.org/change-string-to-a-new-character-set/
 
 findExtra.cpp : https://www.geeksforgeeks.org/find-one-extra-character-string/
+
+concatenateStrings.cpp : https://www.geeksforgeeks.org/c-program-concatenate-string-given-number-times/
