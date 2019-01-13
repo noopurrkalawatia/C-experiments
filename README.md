@@ -19,3 +19,5 @@ newCharSet.cpp : https://www.geeksforgeeks.org/change-string-to-a-new-character-
 findExtra.cpp : https://www.geeksforgeeks.org/find-one-extra-character-string/
 
 concatenateStrings.cpp : https://www.geeksforgeeks.org/c-program-concatenate-string-given-number-times/
+
+sumOfSquare.cpp : https://practice.geeksforgeeks.org/problems/game-with-string/
