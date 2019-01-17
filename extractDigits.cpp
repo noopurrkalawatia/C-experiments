@@ -6,7 +6,7 @@ using namespace std;
 
 string extractNumbers(string input)
 {
-    int size = input.size();
+    int size = input.size(),counter = 0,flag = 0;
     string result = "";
     
     if(size == 0)
@@ -14,24 +14,27 @@ string extractNumbers(string input)
         return input;
     }
     
-    stringstream ss;
-    string temp;
-    ss << input;
+    string temp = input;
     
-    while(!ss.eof())
-    {
-        ss >> temp;
-        int size = temp.size();
-        
-        for (int i = 0; i < size; ++i)
+    for (int i = 0; i < size; ++i)
         {
             char ch = tolower(temp[i]);
             if(ch >= '0' && ch <= '9')
             {
                 result = result + ch;
+                counter++;
+                flag = 1;
+            }
+            else if(result.size() > 0 && result[counter - 1] != ' ')
+            {
+                result+=" ";
+	        counter++;
             }
         }
-        result = result + " ";
+    
+    if(!flag)
+    {
+        return "No Integers";
     }
     
     return result;
