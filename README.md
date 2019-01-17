@@ -23,3 +23,5 @@ concatenateStrings.cpp : https://www.geeksforgeeks.org/c-program-concatenate-str
 sumOfSquare.cpp : https://practice.geeksforgeeks.org/problems/game-with-string/0
 
 minMaxConversion.cpp : https://practice.geeksforgeeks.org/problems/max-min-conversion/0
+
+extractDigits.cpp : https://practice.geeksforgeeks.org/problems/extract-the-integers/0
