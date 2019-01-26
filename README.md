@@ -31,3 +31,5 @@ bfs.cpp : normal BFS program for reference.
 rotate90.cpp : https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-without-using-extra-space/0
 
 omitabc.cpp : https://practice.geeksforgeeks.org/problems/remove-b-and-ac-from-a-given-string/0
+
+metastring.cpp : https://practice.geeksforgeeks.org/problems/meta-strings/0
