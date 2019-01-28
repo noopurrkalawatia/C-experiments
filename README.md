@@ -33,3 +33,5 @@ rotate90.cpp : https://practice.geeksforgeeks.org/problems/rotate-a-2d-array-wit
 omitabc.cpp : https://practice.geeksforgeeks.org/problems/remove-b-and-ac-from-a-given-string/0
 
 metastring.cpp : https://practice.geeksforgeeks.org/problems/meta-strings/0
+
+uniquepath.cpp : https://practice.geeksforgeeks.org/problems/number-of-unique-paths/0
