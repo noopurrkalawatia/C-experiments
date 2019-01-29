@@ -40,3 +40,5 @@ maxChar.cpp : https://practice.geeksforgeeks.org/problems/maximum-number-of-char
 
 uglyNum.cpp : https://practice.geeksforgeeks.org/problems/ugly-numbers/0
 
+immSmallNum.cpp : https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0/?track=sp-arrays-and-searching
+
