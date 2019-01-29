@@ -37,3 +37,6 @@ metastring.cpp : https://practice.geeksforgeeks.org/problems/meta-strings/0
 uniquepath.cpp : https://practice.geeksforgeeks.org/problems/number-of-unique-paths/0
 
 maxChar.cpp : https://practice.geeksforgeeks.org/problems/maximum-number-of-characters-between-any-two-same-character/0
+
+uglyNum.cpp : https://practice.geeksforgeeks.org/problems/ugly-numbers/0
+
