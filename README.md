@@ -43,3 +43,5 @@ uglyNum.cpp : https://practice.geeksforgeeks.org/problems/ugly-numbers/0
 immSmallNum.cpp : https://practice.geeksforgeeks.org/problems/immediate-smaller-element/0/?track=sp-arrays-and-searching
 
 rotate.cpp : https://practice.geeksforgeeks.org/problems/reversal-algorithm/0/?track=sp-arrays-and-searching 
+
+rotate2.cpp : https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0/?track=sp-arrays-and-searching
