@@ -47,3 +47,5 @@ rotate.cpp : https://practice.geeksforgeeks.org/problems/reversal-algorithm/0/?t
 rotate2.cpp : https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0/?track=sp-arrays-and-searching
 
 leader.cpp : https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0/?track=sp-arrays-and-searching
+
+reverseGroup.cpp : https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0/?track=sp-arrays-and-searching
