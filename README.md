@@ -45,3 +45,5 @@ immSmallNum.cpp : https://practice.geeksforgeeks.org/problems/immediate-smaller-
 rotate.cpp : https://practice.geeksforgeeks.org/problems/reversal-algorithm/0/?track=sp-arrays-and-searching 
 
 rotate2.cpp : https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0/?track=sp-arrays-and-searching
+
+leader.cpp : https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0/?track=sp-arrays-and-searching
