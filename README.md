@@ -49,3 +49,5 @@ rotate2.cpp : https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elem
 leader.cpp : https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0/?track=sp-arrays-and-searching
 
 reverseGroup.cpp : https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0/?track=sp-arrays-and-searching
+
+pendulum.cpp : https://practice.geeksforgeeks.org/problems/print-an-array-in-pendulum-arrangement/0/?track=sp-arrays-and-searching
