@@ -53,3 +53,5 @@ reverseGroup.cpp : https://practice.geeksforgeeks.org/problems/reverse-array-in-
 pendulum.cpp : https://practice.geeksforgeeks.org/problems/print-an-array-in-pendulum-arrangement/0/?track=sp-arrays-and-searching
 
 fracknapsack.cpp : https://practice.geeksforgeeks.org/problems/fractional-knapsack/0
+
+buySell.cpp : https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
