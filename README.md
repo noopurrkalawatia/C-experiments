@@ -55,3 +55,5 @@ pendulum.cpp : https://practice.geeksforgeeks.org/problems/print-an-array-in-pen
 fracknapsack.cpp : https://practice.geeksforgeeks.org/problems/fractional-knapsack/0
 
 buySell.cpp : https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
+
+duplicate.cpp : https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/
