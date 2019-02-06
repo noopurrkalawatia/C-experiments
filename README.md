@@ -61,3 +61,5 @@ duplicate.cpp : https://leetcode.com/explore/interview/card/top-interview-questi
 intersection.cpp : https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674
 
 climb.cpp : https://leetcode.com/articles/climbing-stairs/
+
+factory.cpp : factory design pattern. A simple program to show the basic functionality.
