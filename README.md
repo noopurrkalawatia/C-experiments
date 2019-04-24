@@ -67,3 +67,5 @@ factory.cpp : factory design pattern. A simple program to show the basic functio
 lcmgcd.cpp : https://practice.geeksforgeeks.org/problems/lcm-and-gcd/0/?track=sp-mathematics
 
 topologicalSort.cpp : Topological sorting.
+
+longestPalindrome.cpp : https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/
