@@ -69,3 +69,5 @@ lcmgcd.cpp : https://practice.geeksforgeeks.org/problems/lcm-and-gcd/0/?track=sp
 topologicalSort.cpp : Topological sorting.
 
 longestPalindrome.cpp : https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/
+
+triplet.cpp : https://practice.geeksforgeeks.org/problems/pythagorean-triplet
