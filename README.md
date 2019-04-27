@@ -73,3 +73,5 @@ longestPalindrome.cpp : https://practice.geeksforgeeks.org/problems/longest-pali
 triplet.cpp : https://practice.geeksforgeeks.org/problems/pythagorean-triplet
 
 LRU.cpp : Least Recently Used cache
+
+removeduplicate.cpp : https://leetcode.com/problems/remove-element/submissions/
