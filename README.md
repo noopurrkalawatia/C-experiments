@@ -83,3 +83,5 @@ lruccache.cpp : https://leetcode.com/problems/lru-cache/
 addlist.cpp : https://leetcode.com/problems/add-two-numbers/ 
 
 maxsub.cpp : https://leetcode.com/problems/maximum-subarray/
+
+revlist.cpp : https://leetcode.com/problems/reverse-linked-list/
