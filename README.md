@@ -85,3 +85,6 @@ addlist.cpp : https://leetcode.com/problems/add-two-numbers/
 maxsub.cpp : https://leetcode.com/problems/maximum-subarray/
 
 revlist.cpp : https://leetcode.com/problems/reverse-linked-list/
+
+palinList.cpp : https://leetcode.com/problems/palindrome-linked-list/
+
