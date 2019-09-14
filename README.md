@@ -88,3 +88,5 @@ revlist.cpp : https://leetcode.com/problems/reverse-linked-list/
 
 palinList.cpp : https://leetcode.com/problems/palindrome-linked-list/
 
+missingNum.cpp : https://leetcode.com/problems/missing-number
+
