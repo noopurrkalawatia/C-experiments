@@ -92,3 +92,5 @@ missingNum.cpp : https://leetcode.com/problems/missing-number
 
 trappingWater.cpp : https://leetcode.com/problems/trapping-rain-water
 
+reachPoints.cpp : https://leetcode.com/articles/reaching-points/
+
