@@ -111,3 +111,5 @@ LCA2.cpp : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-sear
 mergeTree.cpp : https://leetcode.com/problems/merge-two-binary-trees/
 
 sortFreq.cpp : https://leetcode.com/problems/sort-characters-by-frequency/
+
+firstUni.cpp : https://leetcode.com/problems/first-unique-character-in-a-string/
