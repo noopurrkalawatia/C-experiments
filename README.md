@@ -113,3 +113,5 @@ mergeTree.cpp : https://leetcode.com/problems/merge-two-binary-trees/
 sortFreq.cpp : https://leetcode.com/problems/sort-characters-by-frequency/
 
 firstUni.cpp : https://leetcode.com/problems/first-unique-character-in-a-string/
+
+train.cpp : https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
