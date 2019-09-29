@@ -119,3 +119,5 @@ train.cpp : https://www.geeksforgeeks.org/minimum-number-platforms-required-rail
 remDuplicates.cpp : https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 
 disCoins.cpp : https://leetcode.com/problems/distribute-coins-in-binary-tree/
+
+ksubset.cpp : https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
