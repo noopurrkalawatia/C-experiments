@@ -127,3 +127,5 @@ longSub.cpp : https://leetcode.com/problems/longest-substring-without-repeating-
 design.cpp : https://leetcode.com/problems/insert-delete-getrandom-o1/
 
 minStack.cpp : https://leetcode.com/problems/min-stack/
+
+movAvg.cpp : https://leetcode.com/problems/moving-average-from-data-stream/
