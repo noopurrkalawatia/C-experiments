@@ -16,7 +16,7 @@ public:
         for(int i = 1 ; i < s.size(); ++i)
         {
             prev_index = index[s[i]];
-            if(index[s[i]] == -1 || i - curr_len > prev_index)
+            if(index[s[i]] == -1 || i - prev_index > curr_len)
             {
                 curr_len++;
             }
