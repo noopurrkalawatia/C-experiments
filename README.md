@@ -121,3 +121,5 @@ remDuplicates.cpp : https://leetcode.com/problems/remove-duplicates-from-sorted-
 disCoins.cpp : https://leetcode.com/problems/distribute-coins-in-binary-tree/
 
 ksubset.cpp : https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+
+longSub.cpp : https://leetcode.com/problems/longest-substring-without-repeating-characters/
