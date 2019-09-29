@@ -7,12 +7,18 @@ public:
             return 0;
         }
         
-        vector<int> index(256,-1);
+        int index[256];
+        for (int i = 0; i < 256; ++i)
+        {
+		    index[i] = -1; 
+        }
+
         int max_len = 1;
         int curr_len = 1;
         int prev_index;
         
         index[s[0]] = 0;
+        
         for(int i = 1 ; i < s.size(); ++i)
         {
             prev_index = index[s[i]];
@@ -20,21 +26,16 @@ public:
             {
                 curr_len++;
             }
-            
             else
             {
                 if(curr_len > max_len)
                 {
                     max_len = curr_len;
                 }
-                
                 curr_len = i - prev_index;
             }
-            
             index[s[i]] = i;
         }
-        
-        max_len = curr_len > max_len ? curr_len : max_len;
-        return max_len;
+        return curr_len > max_len ? curr_len : max_len;   
     }
 };
