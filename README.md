@@ -131,3 +131,5 @@ minStack.cpp : https://leetcode.com/problems/min-stack/
 movAvg.cpp : https://leetcode.com/problems/moving-average-from-data-stream/
 
 palinSub.cpp : https://leetcode.com/problems/longest-palindromic-substring/
+
+diameterTree.cpp : https://leetcode.com/problems/diameter-of-binary-tree/
