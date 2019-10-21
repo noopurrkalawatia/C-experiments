@@ -135,3 +135,5 @@ palinSub.cpp : https://leetcode.com/problems/longest-palindromic-substring/
 diameterTree.cpp : https://leetcode.com/problems/diameter-of-binary-tree/
 
 validParen.cpp : https://leetcode.com/problems/valid-parentheses/
+
+bst.cpp : Normal BST insertion function
