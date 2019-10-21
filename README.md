@@ -139,3 +139,5 @@ validParen.cpp : https://leetcode.com/problems/valid-parentheses/
 bst.cpp : Normal BST insertion function
 
 serialise.cpp : https://leetcode.com/problems/serialize-and-deserialize-bst/
+
+validBST.cpp : https://leetcode.com/problems/validate-binary-search-tree/
