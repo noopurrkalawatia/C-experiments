@@ -151,3 +151,7 @@ zigzagTree.cpp : https://leetcode.com/problems/binary-tree-zigzag-level-order-tr
 levelVec.cpp : https://leetcode.com/problems/binary-tree-level-order-traversal/
 
 sumMaxLevel.cpp : https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+
+rightPointer.cpp : https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+
+
