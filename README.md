@@ -154,4 +154,6 @@ sumMaxLevel.cpp : https://leetcode.com/problems/maximum-level-sum-of-a-binary-tr
 
 rightPointer.cpp : https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 
+trimBST.cpp : https://leetcode.com/problems/trim-a-binary-search-tree/
+
 
