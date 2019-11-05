@@ -156,4 +156,5 @@ rightPointer.cpp : https://leetcode.com/problems/populating-next-right-pointers-
 
 trimBST.cpp : https://leetcode.com/problems/trim-a-binary-search-tree/
 
+binSearch.cpp : https://leetcode.com/problems/binary-search/
 
