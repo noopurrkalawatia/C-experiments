@@ -164,3 +164,5 @@ findJudge.cpp : https://leetcode.com/problems/find-the-town-judge/
 
 findCeleb.cpp : https://leetcode.com/problems/find-the-celebrity/
 
+peekingIterator.cpp : https://leetcode.com/problems/peeking-iterator/
+
