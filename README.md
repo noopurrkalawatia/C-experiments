@@ -185,3 +185,5 @@ groupAnagram.cpp : https://leetcode.com/problems/group-anagrams/
 minWindow.cpp : https://leetcode.com/problems/minimum-window-substring/
 
 majorityNumber2.cpp : https://leetcode.com/problems/majority-element-ii/
+
+validPalindrome.cpp : https://leetcode.com/explore/interview/card/apple/344/array-and-strings/3111/
