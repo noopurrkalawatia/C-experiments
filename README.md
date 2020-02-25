@@ -176,4 +176,6 @@ spiralOrder.cpp : https://leetcode.com/problems/spiral-matrix/
 
 atoi.cpp : https://leetcode.com/problems/string-to-integer-atoi/
 
-3sumClosest.cpp : https://leetcode.com/problems/3sum-closest/submissions/
+3sumClosest.cpp : https://leetcode.com/problems/3sum-closest/
+
+4sum.cpp : https://leetcode.com/problems/4sum/
