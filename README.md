@@ -183,3 +183,5 @@ atoi.cpp : https://leetcode.com/problems/string-to-integer-atoi/
 groupAnagram.cpp : https://leetcode.com/problems/group-anagrams/
 
 minWindow.cpp : https://leetcode.com/problems/minimum-window-substring/
+
+majorityNumber2.cpp : https://leetcode.com/problems/majority-element-ii/
