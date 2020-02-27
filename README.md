@@ -199,3 +199,5 @@ prodArrayItself.cpp : https://leetcode.com/problems/product-of-array-except-self
 subArray.cpp : https://leetcode.com/problems/subarray-sum-equals-k/
 
 cloneGraph.cpp : https://leetcode.com/problems/clone-graph/
+
+rotatearray.cpp : https://leetcode.com/problems/search-in-rotated-sorted-array/
