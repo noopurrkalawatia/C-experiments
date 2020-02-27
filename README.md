@@ -205,3 +205,5 @@ rotatearray.cpp : https://leetcode.com/problems/search-in-rotated-sorted-array/
 mergeIntervals.cpp : https://leetcode.com/problems/merge-intervals/
 
 validAna.cpp : https://leetcode.com/problems/valid-anagram/
+
+interArray.cpp : https://leetcode.com/problems/intersection-of-two-arrays/
