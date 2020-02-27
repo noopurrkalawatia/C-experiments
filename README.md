@@ -201,3 +201,5 @@ subArray.cpp : https://leetcode.com/problems/subarray-sum-equals-k/
 cloneGraph.cpp : https://leetcode.com/problems/clone-graph/
 
 rotatearray.cpp : https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+mergeIntervals.cpp : https://leetcode.com/problems/merge-intervals/
