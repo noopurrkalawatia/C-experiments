@@ -213,3 +213,5 @@ kfrequent.cpp : https://leetcode.com/problems/top-k-frequent-words/
 closeOrigin.cpp : https://leetcode.com/problems/k-closest-points-to-origin/
 
 sortColors.cpp : https://leetcode.com/problems/sort-colors/
+
+peakIndex.cpp : https://leetcode.com/problems/peak-index-in-a-mountain-array/
