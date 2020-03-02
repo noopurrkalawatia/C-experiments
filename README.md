@@ -215,3 +215,5 @@ closeOrigin.cpp : https://leetcode.com/problems/k-closest-points-to-origin/
 sortColors.cpp : https://leetcode.com/problems/sort-colors/
 
 peakIndex.cpp : https://leetcode.com/problems/peak-index-in-a-mountain-array/
+
+mountain.cpp : https://leetcode.com/problems/find-in-mountain-array/
