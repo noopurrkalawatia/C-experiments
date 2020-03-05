@@ -217,3 +217,5 @@ sortColors.cpp : https://leetcode.com/problems/sort-colors/
 peakIndex.cpp : https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
 mountain.cpp : https://leetcode.com/problems/find-in-mountain-array/
+
+bipartite.cpp : https://leetcode.com/problems/is-graph-bipartite/
