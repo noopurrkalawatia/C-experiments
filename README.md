@@ -225,3 +225,5 @@ validtree.cpp : https://leetcode.com/problems/graph-valid-tree/
 loggerRate.cpp : https://leetcode.com/problems/logger-rate-limiter/
 
 courseSchedule.cpp : https://leetcode.com/problems/course-schedule/
+
+happyNumber.cpp : https://leetcode.com/problems/happy-number/
