@@ -239,3 +239,5 @@ medianDataStream.cpp : https://leetcode.com/problems/find-median-from-data-strea
 frogJump.cpp : https://leetcode.com/problems/frog-jump/
 
 wordBreak.cpp : https://leetcode.com/problems/word-break/
+
+increasingPath.cpp : https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
