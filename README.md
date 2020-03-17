@@ -241,3 +241,5 @@ frogJump.cpp : https://leetcode.com/problems/frog-jump/
 wordBreak.cpp : https://leetcode.com/problems/word-break/
 
 increasingPath.cpp : https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+
+nQueen.cpp : https://leetcode.com/problems/n-queens-ii/
