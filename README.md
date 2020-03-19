@@ -245,3 +245,5 @@ increasingPath.cpp : https://leetcode.com/problems/longest-increasing-path-in-a-
 nQueen.cpp : https://leetcode.com/problems/n-queens-ii/
 
 ticTacToe.cpp : https://leetcode.com/problems/design-tic-tac-toe/
+
+flatten2D.cpp : https://leetcode.com/problems/flatten-2d-vector/
